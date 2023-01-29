@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FyiVideoPlayer.qml</file>
+        <file>SeekBar.qml</file>
+        <file>VideoScreen.qml</file>
+        <file>VideoSelectionScreen.qml</file>
+        <file>play-pause.png</file>
+    </qresource>
+</RCC>
